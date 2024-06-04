@@ -3,7 +3,7 @@
 
 This is a CLI based application made to parse jobs from the official webpage of Generalitat de Catalunya.
 
-### Pre-requisites ###
+### Prerequisites ###
 
 - Having the requirements installed (Selenium and BeautifulSoup).
 - Having the webdriver downloaded and/or set to PATH, for the specific navigator. In my case I set it to Chrome.
