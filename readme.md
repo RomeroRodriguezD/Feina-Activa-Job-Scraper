@@ -1,4 +1,5 @@
 ## Feina Activa (Servei d'Ocupació de Catalunya) CLI Job Scraper ##
+![image](https://github.com/RomeroRodriguezD/Feina-Activa-Job-Scraper/assets/105886661/1ade7a19-cfc5-4710-9b44-47780503c986)
 
 This is a CLI based application made to parse jobs from the official webpage of Generalitat de Catalunya.
 
